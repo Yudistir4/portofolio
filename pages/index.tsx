@@ -74,7 +74,7 @@ const Home = () => {
             <h1 className="text-2xl font-bold text-gray-200">
               Yudistira Maulana
             </h1>
-            <p className="text-gray-300">I'm Fullstack developer</p>
+            <p className="text-gray-300">I&apos;m Fullstack developer</p>
           </div>
           <div className="flex items-center">
             <a
@@ -129,8 +129,8 @@ const Home = () => {
           </div>
           <p className="text-gray-400 text-justify">
             Hello! My name is Yudis, you can call me Yudis, Acong or whatever
-            you want. I'm a Fullstack Developer located in West Java, Indonesia
-            and I enjoy creating things that live on the internet.
+            you want. I&apos;m a Fullstack Developer located in West Java,
+            Indonesia and I enjoy creating things that live on the internet.
             <br />
             <br />
             Here are a few technologies I’ve been working with recently:
